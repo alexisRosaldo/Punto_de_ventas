@@ -1,0 +1,20 @@
+Segunda entrega de PROYECTO
+
+MANUAL DE USUARIO
+
+Ejecute el programa desde la clase inicio/main para evitar errores.
+
+Evite modificar la dirección de alguna librería para no generar errores.
+
+Modifique el puerto de su localhost en caso de estar ocupado.
+
+Proyecto: POO 
+autor: Alexis de Jesús Rosaldo Pacheco
+-----------------------------------------------------------------------
+-----------BASE--DE--DATOS----------------------------------------------
+-----------------------------------------------------------------------
+Si deseea ejecutar el programa sin problemas:
+
+1.- Luego de ello tener instalado xampp o alguna dependencia semejante
+2.- Requiere importar el archivo SQL bd_punto_de_ventas.sql
+3-. Finalmente ejecute el programa.

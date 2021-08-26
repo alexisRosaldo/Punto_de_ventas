@@ -1,0 +1,4 @@
+Si deseea ejecutar el programa sin problemas:
+1.- Requiere importar el archivo SQL bd_punto_de_ventas.sql
+2.- Luego de ello tener instalado xampp o una dependencia semejante
+3-. Finalmente ejecuta el programa.
